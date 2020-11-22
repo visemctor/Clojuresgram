@@ -14,3 +14,8 @@ This is an example of how to compile to nodeJS.
 ```sh
 java -cp "cljs.jar;src" cljs.main --target node --output-to main.js -c hello-world.core
 ```
+Run the code compiled in node with REPL.
+* node code in REPL
+```sh
+java -cp "cljs.jar;src" cljs.main --repl-env node
+```
