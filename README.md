@@ -1,7 +1,7 @@
 # Clojuresgram
 An instragram clone in clojure and datomic
 
-### Prerequisites
+### Prerequisites on Windows
 
 This is an example of how to run the project.
 * clojure
